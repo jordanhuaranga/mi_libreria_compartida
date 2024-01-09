@@ -1,3 +1,5 @@
+// MySharedLibrary/vars/mySharedFunction.groovy
+
 def call() {
-    MySharedLibrary.MyLib.sayHello()
+    new MySharedLibrary.MyLib().sayHello()
 }
