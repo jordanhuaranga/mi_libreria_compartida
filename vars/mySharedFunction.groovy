@@ -1,3 +1,3 @@
 def call() {
-    MySharedLibrary.mylib.sayHello()
+    MySharedLibrary.MyLib.sayHello()
 }
